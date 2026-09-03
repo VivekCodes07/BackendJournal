@@ -1,0 +1,13 @@
+{
+  "name": "l06-core-modules",
+  "version": "1.0.0",
+  "description": "Node.js comes with many **built-in modules** that give me useful functionality without installing anything from npm.",
+  "main": "fs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
