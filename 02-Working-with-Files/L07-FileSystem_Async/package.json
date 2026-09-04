@@ -1,0 +1,13 @@
+{
+  "name": "l07-filesystem_async",
+  "version": "1.0.0",
+  "description": "The Node.js `fs` (File System) module is used to work with files and directories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
