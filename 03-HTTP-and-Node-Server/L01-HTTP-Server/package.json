@@ -1,0 +1,17 @@
+{
+  "name": "l01-http-server",
+  "version": "1.0.0",
+  "description": "In the previous lesson, I learned how **HTTP communication works** between a client and a server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
