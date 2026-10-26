@@ -1,0 +1,14 @@
+{
+  "name": "l03-request-and-response",
+  "version": "1.0.0",
+  "description": "Until now, I have learned how to create an HTTP server in Node.js and how HTTP methods and routing work at a basic level.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
