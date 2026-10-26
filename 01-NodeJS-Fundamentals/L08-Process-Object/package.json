@@ -1,0 +1,13 @@
+{
+  "name": "l08-process-object",
+  "version": "1.0.0",
+  "description": "Until now, I have learned how Node.js runs JavaScript, how modules work, how asynchronous operations are handled, and how to create an HTTP server.",
+  "main": "C01_EnvironmentVariables.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
